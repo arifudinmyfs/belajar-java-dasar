@@ -1,3 +1,5 @@
+package TypeData;
+
 public class KonversiTypeDataNumber {
     public static void main(String[] args) {
 

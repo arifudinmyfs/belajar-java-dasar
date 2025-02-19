@@ -1,3 +1,5 @@
+package TypeData;
+
 public class TypeDataNumber {
     public static void main(String[] args) {
         byte b = 100; // hanya 3 angka karena byte;; default 0.
